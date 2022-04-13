@@ -3,7 +3,7 @@
 
 
 ### Homework#1
-[HERE](Homework#1.html) is my first assignment by Python
+[HERE](HW1/Homeworj#1.html) is my first assignment by Python
 
 [HERE](HW1/IE360_Spring22_HW1.pdf) is the description of the homework
 
