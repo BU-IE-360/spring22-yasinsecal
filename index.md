@@ -3,11 +3,11 @@
 
 
 ### Homework#1
-[HERE](HW#1/Homework#1.html) is my first assignment by Python
+[HERE](HW1/Homework#1.html) is my first assignment by Python
 
-[HERE](HW#1/IE360_Spring22_HW1.pdf) is the description of the homework
+[HERE](HW1/IE360_Spring22_HW1.pdf) is the description of the homework
 
-[HERE](HW#1/Homework#1.ipynb) is the .ipynb file
+[HERE](HW1/Homework#1.ipynb) is the .ipynb file
 ### Homework#2
 ### Homework#3
 
