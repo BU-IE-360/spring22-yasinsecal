@@ -14,9 +14,9 @@
 
 [HERE](HW2/Homework-2.html) is second assignment by R
 
-[HERE] (HW2/IE360_Spring22_HW2.pdf) is description of the homework
+[HERE](HW2/IE360_Spring22_HW2.pdf) is description of the homework
 
-[HERE] (HW2/Homework-2.ipynb) is the .ipynb file
+[HERE](HW2/Homework-2.ipynb) is the .ipynb file
 
 ### Homework#3
 
