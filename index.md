@@ -18,6 +18,10 @@
 
 [HERE](HW2/Homework-2.ipynb) is the .ipynb file
 
+---------------------------------------------------------------
+
 ### Project
 
-[Link](Project/Project_Code-3.ipynb)
+[Link](Project/IE 360 report.pdf) is project report.
+
+[Link](Project/Project_Code-3.ipynb) is the .ipynb file.
