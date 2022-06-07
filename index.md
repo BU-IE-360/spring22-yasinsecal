@@ -22,6 +22,6 @@
 
 ### Project
 
-[HERE](Project/IE 360 report.pdf) is project report.
+[HERE](Project/IE_360_report.pdf) is project report.
 
 [HERE](Project/Project_Code-3.ipynb) is the .ipynb file.
